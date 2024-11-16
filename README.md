@@ -1,7 +1,5 @@
 ## Salve 👋
 
-- 🔭 I’m currently working on ...
-
 <!--
 **JayVee1653/JayVee1653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
